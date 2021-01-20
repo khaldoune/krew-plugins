@@ -23,7 +23,7 @@ spec:
         - darwin
         - linux
     uri: https://bitbucket.agilefabric.fr.carrefour.com/projects/APIGH/repos/kubectl-plugins/browse/downloads/ctx/v0.9.1/kubectx-0.9.1.tar.gz
-    sha256: 97a3e97f78b34580619e76631f902e3253764420bb38ad145469de1714527778
+    sha256: 8f68e19b841a1f1492536dc27f9b93ea3204c7e4fd0ad2e3c483d1b8e95be675
     bin: kubectx
     files:
     - from: kubectx-*/kubectx
