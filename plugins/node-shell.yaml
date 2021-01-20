@@ -34,7 +34,7 @@ spec:
         - darwin
         - linux
     uri: https://bitbucket.agilefabric.fr.carrefour.com/projects/APIGH/repos/kubectl-plugins/browse/downloads/node-shell/v1.2.3/kubectl-node-shell-1.2.3.tar.gz
-    sha256: 65f45920fdaeeeac3fbf608036be2c4c0fd2952c4660a0d08edd1f68e5f354eb
+    sha256: 4bfba530d550963dba5eb986ebf9251cc9f632b5cab6dfe932109ec6683e1428
     files:
     - from: kubectl-node-shell-*/kubectl-node_shell
       to: .
