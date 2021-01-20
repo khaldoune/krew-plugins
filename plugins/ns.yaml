@@ -21,7 +21,7 @@ spec:
         values:
         - darwin
         - linux
-    uri: https://bitbucket.agilefabric.fr.carrefour.com/projects/APIGH/repos/kubectl-plugins/browse/downloads/ctx/v0.9.1/kubectx-0.9.1.tar.gz
+    uri: https://github.com/khaldoune/krew-plugins/raw/master/downloads/ctx/v0.9.1/kubectx-0.9.1.tar.gz
     sha256: 8f68e19b841a1f1492536dc27f9b93ea3204c7e4fd0ad2e3c483d1b8e95be675
     bin: kubens
     files:
